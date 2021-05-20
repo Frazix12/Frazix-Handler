@@ -1,5 +1,3 @@
-# Frazix Handler
-
 ![image](./assets/banner.png)
 
 ## Last command handler you will ever use.
